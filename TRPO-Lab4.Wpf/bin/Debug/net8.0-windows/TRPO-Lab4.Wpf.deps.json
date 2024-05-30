@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "TRPO-Lab4.Wpf/1.0.0": {
+        "dependencies": {
+          "TRPO_Lab3.Lib": "1.0.0"
+        },
+        "runtime": {
+          "TRPO-Lab4.Wpf.dll": {}
+        }
+      },
+      "TRPO_Lab3.Lib/1.0.0": {
+        "runtime": {
+          "TRPO_Lab3.Lib.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "TRPO-Lab4.Wpf/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "TRPO_Lab3.Lib/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

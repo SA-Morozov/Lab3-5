@@ -3,17 +3,19 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.9.34723.18
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TRPO-Lab3", "TRPO-Lab3\TRPO-Lab3.csproj", "{2A529C04-5D06-4FB2-917E-4F19C7AB55D2}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TRPO-Lab3", "TRPO-Lab3\TRPO-Lab3.csproj", "{2A529C04-5D06-4FB2-917E-4F19C7AB55D2}"
 	ProjectSection(ProjectDependencies) = postProject
 		{B308EBA0-B8F0-434D-B413-FC0EC0A67368} = {B308EBA0-B8F0-434D-B413-FC0EC0A67368}
 	EndProjectSection
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TRPO_Lab3.Lib", "TRPO_Lab3.Lib\TRPO_Lab3.Lib.csproj", "{B308EBA0-B8F0-434D-B413-FC0EC0A67368}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TRPO_Lab3.Lib", "TRPO_Lab3.Lib\TRPO_Lab3.Lib.csproj", "{B308EBA0-B8F0-434D-B413-FC0EC0A67368}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TRPO-Lab3.Test", "TRPO-Lab3.Test\TRPO-Lab3.Test.csproj", "{D1CD33E5-7D57-478A-9C38-1F5F49CC927C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TRPO-Lab3.Test", "TRPO-Lab3.Test\TRPO-Lab3.Test.csproj", "{D1CD33E5-7D57-478A-9C38-1F5F49CC927C}"
 	ProjectSection(ProjectDependencies) = postProject
 		{B308EBA0-B8F0-434D-B413-FC0EC0A67368} = {B308EBA0-B8F0-434D-B413-FC0EC0A67368}
 	EndProjectSection
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TRPO-Lab4.Wpf", "TRPO-Lab4.Wpf\TRPO-Lab4.Wpf.csproj", "{5A67F15E-6DF8-450C-B242-3ACB7658EBE0}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -33,6 +35,10 @@ Global
 		{D1CD33E5-7D57-478A-9C38-1F5F49CC927C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D1CD33E5-7D57-478A-9C38-1F5F49CC927C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D1CD33E5-7D57-478A-9C38-1F5F49CC927C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5A67F15E-6DF8-450C-B242-3ACB7658EBE0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5A67F15E-6DF8-450C-B242-3ACB7658EBE0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5A67F15E-6DF8-450C-B242-3ACB7658EBE0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5A67F15E-6DF8-450C-B242-3ACB7658EBE0}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

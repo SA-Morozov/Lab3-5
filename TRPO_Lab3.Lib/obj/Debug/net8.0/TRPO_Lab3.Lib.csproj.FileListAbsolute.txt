@@ -9,3 +9,14 @@ C:\Users\SEMENMOROZ\source\repos\TRPO-Lab3\TRPO_Lab3.Lib\obj\Debug\net8.0\TRPO_L
 C:\Users\SEMENMOROZ\source\repos\TRPO-Lab3\TRPO_Lab3.Lib\obj\Debug\net8.0\refint\TRPO_Lab3.Lib.dll
 C:\Users\SEMENMOROZ\source\repos\TRPO-Lab3\TRPO_Lab3.Lib\obj\Debug\net8.0\TRPO_Lab3.Lib.pdb
 C:\Users\SEMENMOROZ\source\repos\TRPO-Lab3\TRPO_Lab3.Lib\obj\Debug\net8.0\ref\TRPO_Lab3.Lib.dll
+F:\TRPO-Lab3\TRPO_Lab3.Lib\bin\Debug\net8.0\TRPO_Lab3.Lib.deps.json
+F:\TRPO-Lab3\TRPO_Lab3.Lib\bin\Debug\net8.0\TRPO_Lab3.Lib.dll
+F:\TRPO-Lab3\TRPO_Lab3.Lib\bin\Debug\net8.0\TRPO_Lab3.Lib.pdb
+F:\TRPO-Lab3\TRPO_Lab3.Lib\obj\Debug\net8.0\TRPO_Lab3.Lib.GeneratedMSBuildEditorConfig.editorconfig
+F:\TRPO-Lab3\TRPO_Lab3.Lib\obj\Debug\net8.0\TRPO_Lab3.Lib.AssemblyInfoInputs.cache
+F:\TRPO-Lab3\TRPO_Lab3.Lib\obj\Debug\net8.0\TRPO_Lab3.Lib.AssemblyInfo.cs
+F:\TRPO-Lab3\TRPO_Lab3.Lib\obj\Debug\net8.0\TRPO_Lab3.Lib.csproj.CoreCompileInputs.cache
+F:\TRPO-Lab3\TRPO_Lab3.Lib\obj\Debug\net8.0\TRPO_Lab3.Lib.dll
+F:\TRPO-Lab3\TRPO_Lab3.Lib\obj\Debug\net8.0\refint\TRPO_Lab3.Lib.dll
+F:\TRPO-Lab3\TRPO_Lab3.Lib\obj\Debug\net8.0\TRPO_Lab3.Lib.pdb
+F:\TRPO-Lab3\TRPO_Lab3.Lib\obj\Debug\net8.0\ref\TRPO_Lab3.Lib.dll

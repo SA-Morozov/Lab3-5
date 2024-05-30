@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "2ihJIXO9VD1DrvfVUbW3vVb1f7gwKSWOlHp1IsDAZJns/tc090lRmTsdBZEHtIyHxyAH+l2CxLq4VGUCOze5Cg==",
+  "dgSpecHash": "6LCMfloWWwDJN1KqMNje7cJ5T/7MmuusFzrI+3mm/F+iIRH6srZ0/esl6A3dHhnGxNFkBmAVA8A3b2DfcFbRjg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\SEMENMOROZ\\source\\repos\\TRPO-Lab3\\TRPO-Lab3.Test\\TRPO-Lab3.Test.csproj",
+  "projectFilePath": "F:\\TRPO-Lab3\\TRPO-Lab3.Test\\TRPO-Lab3.Test.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\SEMENMOROZ\\.nuget\\packages\\coverlet.collector\\6.0.0\\coverlet.collector.6.0.0.nupkg.sha512",
     "C:\\Users\\SEMENMOROZ\\.nuget\\packages\\microsoft.codecoverage\\17.8.0\\microsoft.codecoverage.17.8.0.nupkg.sha512",

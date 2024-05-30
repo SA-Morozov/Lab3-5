@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\SEMENMOROZ\\source\\repos\\TRPO-Lab3\\TRPO_Lab3.Lib\\TRPO_Lab3.Lib.csproj": {}
+    "F:\\TRPO-Lab3\\TRPO_Lab3.Lib\\TRPO_Lab3.Lib.csproj": {}
   },
   "projects": {
-    "C:\\Users\\SEMENMOROZ\\source\\repos\\TRPO-Lab3\\TRPO_Lab3.Lib\\TRPO_Lab3.Lib.csproj": {
+    "F:\\TRPO-Lab3\\TRPO_Lab3.Lib\\TRPO_Lab3.Lib.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\SEMENMOROZ\\source\\repos\\TRPO-Lab3\\TRPO_Lab3.Lib\\TRPO_Lab3.Lib.csproj",
+        "projectUniqueName": "F:\\TRPO-Lab3\\TRPO_Lab3.Lib\\TRPO_Lab3.Lib.csproj",
         "projectName": "TRPO_Lab3.Lib",
-        "projectPath": "C:\\Users\\SEMENMOROZ\\source\\repos\\TRPO-Lab3\\TRPO_Lab3.Lib\\TRPO_Lab3.Lib.csproj",
+        "projectPath": "F:\\TRPO-Lab3\\TRPO_Lab3.Lib\\TRPO_Lab3.Lib.csproj",
         "packagesPath": "C:\\Users\\SEMENMOROZ\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\SEMENMOROZ\\source\\repos\\TRPO-Lab3\\TRPO_Lab3.Lib\\obj\\",
+        "outputPath": "F:\\TRPO-Lab3\\TRPO_Lab3.Lib\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\SEMENMOROZ\\AppData\\Roaming\\NuGet\\NuGet.Config",
