@@ -1,0 +1,11 @@
+C:\Users\SEMENMOROZ\source\repos\TRPO-Lab3\TRPO_Lab3.Lib\obj\Debug\net8.0\TRPO_Lab3.Lib.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SEMENMOROZ\source\repos\TRPO-Lab3\TRPO_Lab3.Lib\obj\Debug\net8.0\TRPO_Lab3.Lib.AssemblyInfoInputs.cache
+C:\Users\SEMENMOROZ\source\repos\TRPO-Lab3\TRPO_Lab3.Lib\obj\Debug\net8.0\TRPO_Lab3.Lib.AssemblyInfo.cs
+C:\Users\SEMENMOROZ\source\repos\TRPO-Lab3\TRPO_Lab3.Lib\obj\Debug\net8.0\TRPO_Lab3.Lib.csproj.CoreCompileInputs.cache
+C:\Users\SEMENMOROZ\source\repos\TRPO-Lab3\TRPO_Lab3.Lib\bin\Debug\net8.0\TRPO_Lab3.Lib.deps.json
+C:\Users\SEMENMOROZ\source\repos\TRPO-Lab3\TRPO_Lab3.Lib\bin\Debug\net8.0\TRPO_Lab3.Lib.dll
+C:\Users\SEMENMOROZ\source\repos\TRPO-Lab3\TRPO_Lab3.Lib\bin\Debug\net8.0\TRPO_Lab3.Lib.pdb
+C:\Users\SEMENMOROZ\source\repos\TRPO-Lab3\TRPO_Lab3.Lib\obj\Debug\net8.0\TRPO_Lab3.Lib.dll
+C:\Users\SEMENMOROZ\source\repos\TRPO-Lab3\TRPO_Lab3.Lib\obj\Debug\net8.0\refint\TRPO_Lab3.Lib.dll
+C:\Users\SEMENMOROZ\source\repos\TRPO-Lab3\TRPO_Lab3.Lib\obj\Debug\net8.0\TRPO_Lab3.Lib.pdb
+C:\Users\SEMENMOROZ\source\repos\TRPO-Lab3\TRPO_Lab3.Lib\obj\Debug\net8.0\ref\TRPO_Lab3.Lib.dll
