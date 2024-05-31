@@ -1,0 +1,52 @@
+﻿@{
+    ViewData["Title"] = "SurfaceArea";
+}
+
+<head>
+    <link href="~/lib/bootstrap/css/bootstrap.min.css" rel="stylesheet" />
+</head>
+
+<div class="text-center">
+    <h1 align="left" class="display-10">Расчет боковой поверхности правильной усеченной пирамиды</h1>
+    <p></p>
+    <p align="left">Разработал: Морозов Семен Андреевич</p>
+    <p align="left">Студент гр. НМТ-223901</p>
+    <div class="text-center">
+        <img src="/image/TruncatedPyramid.png" style="position: relative; width: 25%">
+        <p></p>
+        <img src="/image/TruncatedPyramidFormula.png" style="position: relative; width: 10%">
+    </div>
+</div>
+
+@model ContainerViewModel
+
+@using (Html.BeginForm())
+{
+        <div class="form-group">
+            <p>
+                <label for="P1" class="col-sm-1">Периметр нижнего основания (P1):</label>
+                <input type="text" name="P1" id="P1" value="@Model.P1" class="form-control" />
+            </p>
+            <p>
+                <label for="P2" class="col-sm-1">Периметр верхнего основания (P2):</label>
+                <input type="text" name="P2" id="P2" value="@Model.P2" class="form-control" />
+            </p>
+            <p>
+                <label for="H" class="col-sm-1">Апофема (H):</label>
+                <input type="text" name="H" id="H" value="@Model.H" class="form-control" />
+            </p>
+        </div>
+        <p>
+        @if (@Model.Result != -1)
+        {
+                    <p>Площадь: @Model.Result</p>
+        }
+        else
+        {
+                    <p class="text-danger">Введите положительные значения для периметров и апофемы!</p>
+        }
+        </p>
+        <p>
+            <input type="submit" value="Вычислить" class="btn btn-primary" />
+        </p>
+}

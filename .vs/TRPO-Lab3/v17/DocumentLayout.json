@@ -3,25 +3,42 @@
   "WorkspaceRootPath": "F:\\TRPO-Lab3\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{DD58793F-E626-4A5F-B803-5DCFF13973B7}|C:\\Users\\SEMENMOROZ\\source\\repos\\TRPO-Lab3\\TRPO-Lab4.Wpf\\TRPO-Lab4.Wpf.csproj|c:\\users\\semenmoroz\\source\\repos\\trpo-lab3\\trpo-lab4.wpf\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+      "AbsoluteMoniker": "D:0:0:{D6259F31-0D26-4944-9947-8A020CDF4EBC}|TRPO-Lab5.Web\\TRPO-Lab5.Web.csproj|f:\\trpo-lab3\\trpo-lab5.web\\views\\surfacearea\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D6259F31-0D26-4944-9947-8A020CDF4EBC}|TRPO-Lab5.Web\\TRPO-Lab5.Web.csproj|solutionrelative:trpo-lab5.web\\views\\surfacearea\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6259F31-0D26-4944-9947-8A020CDF4EBC}|TRPO-Lab5.Web\\TRPO-Lab5.Web.csproj|f:\\trpo-lab3\\trpo-lab5.web\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D6259F31-0D26-4944-9947-8A020CDF4EBC}|TRPO-Lab5.Web\\TRPO-Lab5.Web.csproj|solutionrelative:trpo-lab5.web\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6259F31-0D26-4944-9947-8A020CDF4EBC}|TRPO-Lab5.Web\\TRPO-Lab5.Web.csproj|f:\\trpo-lab3\\trpo-lab5.web\\models\\containerviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D6259F31-0D26-4944-9947-8A020CDF4EBC}|TRPO-Lab5.Web\\TRPO-Lab5.Web.csproj|solutionrelative:trpo-lab5.web\\models\\containerviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6259F31-0D26-4944-9947-8A020CDF4EBC}|TRPO-Lab5.Web\\TRPO-Lab5.Web.csproj|f:\\trpo-lab3\\trpo-lab5.web\\controllers\\surfaceareacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D6259F31-0D26-4944-9947-8A020CDF4EBC}|TRPO-Lab5.Web\\TRPO-Lab5.Web.csproj|solutionrelative:trpo-lab5.web\\controllers\\surfaceareacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A67F15E-6DF8-450C-B242-3ACB7658EBE0}|TRPO-Lab4.Wpf\\TRPO-Lab4.Wpf.csproj|f:\\trpo-lab3\\trpo-lab4.wpf\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{5A67F15E-6DF8-450C-B242-3ACB7658EBE0}|TRPO-Lab4.Wpf\\TRPO-Lab4.Wpf.csproj|solutionrelative:trpo-lab4.wpf\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B308EBA0-B8F0-434D-B413-FC0EC0A67368}|TRPO_Lab3.Lib\\TRPO_Lab3.Lib.csproj|F:\\TRPO-Lab3\\trpo_lab3.lib\\trpo_lab3.lib.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{B308EBA0-B8F0-434D-B413-FC0EC0A67368}|TRPO_Lab3.Lib\\TRPO_Lab3.Lib.csproj|solutionrelative:trpo_lab3.lib\\trpo_lab3.lib.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2A529C04-5D06-4FB2-917E-4F19C7AB55D2}|TRPO-Lab3\\TRPO-Lab3.csproj|F:\\TRPO-Lab3\\trpo-lab3\\trpo-lab3.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{2A529C04-5D06-4FB2-917E-4F19C7AB55D2}|TRPO-Lab3\\TRPO-Lab3.csproj|solutionrelative:trpo-lab3\\trpo-lab3.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D1CD33E5-7D57-478A-9C38-1F5F49CC927C}|TRPO-Lab3.Test\\TRPO-Lab3.Test.csproj|F:\\TRPO-Lab3\\trpo-lab3.test\\trpo-lab3.test.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{D1CD33E5-7D57-478A-9C38-1F5F49CC927C}|TRPO-Lab3.Test\\TRPO-Lab3.Test.csproj|solutionrelative:trpo-lab3.test\\trpo-lab3.test.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|c:\\users\\semenmoroz\\source\\repos\\trpo-lab3\\trpo-lab4.wpf\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\SEMENMOROZ\\Downloads\\Ia6kJ4IQZgA.png||{177559E0-D141-11D0-92DF-00A0C9138C45}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{DD58793F-E626-4A5F-B803-5DCFF13973B7}|C:\\Users\\SEMENMOROZ\\source\\repos\\TRPO-Lab3\\TRPO-Lab4.Wpf\\TRPO-Lab4.Wpf.csproj|c:\\users\\semenmoroz\\source\\repos\\trpo-lab3\\trpo-lab4.wpf\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{DD58793F-E626-4A5F-B803-5DCFF13973B7}|C:\\Users\\SEMENMOROZ\\source\\repos\\TRPO-Lab3\\TRPO-Lab4.Wpf\\TRPO-Lab4.Wpf.csproj|c:\\users\\semenmoroz\\source\\repos\\trpo-lab3\\trpo-lab4.wpf\\viewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{DD58793F-E626-4A5F-B803-5DCFF13973B7}|C:\\Users\\SEMENMOROZ\\source\\repos\\TRPO-Lab3\\TRPO-Lab4.Wpf\\TRPO-Lab4.Wpf.csproj|c:\\users\\semenmoroz\\source\\repos\\trpo-lab3\\trpo-lab4.wpf\\trpo-lab4.wpf.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{DD58793F-E626-4A5F-B803-5DCFF13973B7}|C:\\Users\\SEMENMOROZ\\source\\repos\\TRPO-Lab3\\TRPO-Lab4.Wpf\\TRPO-Lab4.Wpf.csproj|c:\\users\\semenmoroz\\source\\repos\\trpo-lab3\\trpo-lab4.wpf\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{DD58793F-E626-4A5F-B803-5DCFF13973B7}|C:\\Users\\SEMENMOROZ\\source\\repos\\TRPO-Lab3\\TRPO-Lab4.Wpf\\TRPO-Lab4.Wpf.csproj|c:\\users\\semenmoroz\\source\\repos\\trpo-lab3\\trpo-lab4.wpf\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{D1CD33E5-7D57-478A-9C38-1F5F49CC927C}|TRPO-Lab3.Test\\TRPO-Lab3.Test.csproj|F:\\TRPO-Lab3\\trpo-lab3.test\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -36,20 +53,23 @@
       "RelativeMoniker": "D:0:0:{2A529C04-5D06-4FB2-917E-4F19C7AB55D2}|TRPO-Lab3\\TRPO-Lab3.csproj|solutionrelative:trpo-lab3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B308EBA0-B8F0-434D-B413-FC0EC0A67368}|TRPO_Lab3.Lib\\TRPO_Lab3.Lib.csproj|F:\\TRPO-Lab3\\trpo_lab3.lib\\trpo_lab3.lib.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{B308EBA0-B8F0-434D-B413-FC0EC0A67368}|TRPO_Lab3.Lib\\TRPO_Lab3.Lib.csproj|solutionrelative:trpo_lab3.lib\\trpo_lab3.lib.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D1CD33E5-7D57-478A-9C38-1F5F49CC927C}|TRPO-Lab3.Test\\TRPO-Lab3.Test.csproj|F:\\TRPO-Lab3\\trpo-lab3.test\\trpo-lab3.test.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{D1CD33E5-7D57-478A-9C38-1F5F49CC927C}|TRPO-Lab3.Test\\TRPO-Lab3.Test.csproj|solutionrelative:trpo-lab3.test\\trpo-lab3.test.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2A529C04-5D06-4FB2-917E-4F19C7AB55D2}|TRPO-Lab3\\TRPO-Lab3.csproj|F:\\TRPO-Lab3\\trpo-lab3\\trpo-lab3.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{2A529C04-5D06-4FB2-917E-4F19C7AB55D2}|TRPO-Lab3\\TRPO-Lab3.csproj|solutionrelative:trpo-lab3\\trpo-lab3.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{B308EBA0-B8F0-434D-B413-FC0EC0A67368}|TRPO_Lab3.Lib\\TRPO_Lab3.Lib.csproj|F:\\TRPO-Lab3\\trpo_lab3.lib\\surfacearea.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B308EBA0-B8F0-434D-B413-FC0EC0A67368}|TRPO_Lab3.Lib\\TRPO_Lab3.Lib.csproj|solutionrelative:trpo_lab3.lib\\surfacearea.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|c:\\users\\semenmoroz\\source\\repos\\trpo-lab3\\trpo-lab4.wpf\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|c:\\users\\semenmoroz\\source\\repos\\trpo-lab3\\trpo-lab4.wpf\\trpo-lab4.wpf.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|c:\\users\\semenmoroz\\source\\repos\\trpo-lab3\\trpo-lab4.wpf\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|c:\\users\\semenmoroz\\source\\repos\\trpo-lab3\\trpo-lab4.wpf\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|c:\\users\\semenmoroz\\source\\repos\\trpo-lab3\\trpo-lab4.wpf\\viewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -59,21 +79,75 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "MainWindow.xaml.cs",
-              "DocumentMoniker": "C:\\Users\\SEMENMOROZ\\source\\repos\\TRPO-Lab3\\TRPO-Lab4.Wpf\\MainWindow.xaml.cs",
-              "ToolTip": "C:\\Users\\SEMENMOROZ\\source\\repos\\TRPO-Lab3\\TRPO-Lab4.Wpf\\MainWindow.xaml.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABoAAAABAAAA",
+              "DocumentIndex": 1,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "F:\\TRPO-Lab3\\TRPO-Lab5.Web\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "TRPO-Lab5.Web\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "F:\\TRPO-Lab3\\TRPO-Lab5.Web\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "TRPO-Lab5.Web\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAB+AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-31T06:56:02.914Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "F:\\TRPO-Lab3\\TRPO-Lab5.Web\\Views\\SurfaceArea\\Index.cshtml",
+              "RelativeDocumentMoniker": "TRPO-Lab5.Web\\Views\\SurfaceArea\\Index.cshtml",
+              "ToolTip": "F:\\TRPO-Lab3\\TRPO-Lab5.Web\\Views\\SurfaceArea\\Index.cshtml",
+              "RelativeToolTip": "TRPO-Lab5.Web\\Views\\SurfaceArea\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-31T06:49:24.493Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "SurfaceAreaController.cs",
+              "DocumentMoniker": "F:\\TRPO-Lab3\\TRPO-Lab5.Web\\Controllers\\SurfaceAreaController.cs",
+              "RelativeDocumentMoniker": "TRPO-Lab5.Web\\Controllers\\SurfaceAreaController.cs",
+              "ToolTip": "F:\\TRPO-Lab3\\TRPO-Lab5.Web\\Controllers\\SurfaceAreaController.cs",
+              "RelativeToolTip": "TRPO-Lab5.Web\\Controllers\\SurfaceAreaController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwBQAAAAmAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-30T15:29:49.557Z"
+              "WhenOpened": "2024-05-31T06:46:03.621Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ContainerViewModel.cs",
+              "DocumentMoniker": "F:\\TRPO-Lab3\\TRPO-Lab5.Web\\Models\\ContainerViewModel.cs",
+              "RelativeDocumentMoniker": "TRPO-Lab5.Web\\Models\\ContainerViewModel.cs",
+              "ToolTip": "F:\\TRPO-Lab3\\TRPO-Lab5.Web\\Models\\ContainerViewModel.cs",
+              "RelativeToolTip": "TRPO-Lab5.Web\\Models\\ContainerViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-31T06:44:59.017Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "F:\\TRPO-Lab3\\TRPO-Lab4.Wpf\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "TRPO-Lab4.Wpf\\MainWindow.xaml",
+              "ToolTip": "F:\\TRPO-Lab3\\TRPO-Lab4.Wpf\\MainWindow.xaml",
+              "RelativeToolTip": "TRPO-Lab4.Wpf\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-05-31T06:26:16.432Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
               "Title": "TRPO-Lab4.Wpf.csproj",
               "DocumentMoniker": "C:\\Users\\SEMENMOROZ\\source\\repos\\TRPO-Lab3\\TRPO-Lab4.Wpf\\TRPO-Lab4.Wpf.csproj",
               "ToolTip": "C:\\Users\\SEMENMOROZ\\source\\repos\\TRPO-Lab3\\TRPO-Lab4.Wpf\\TRPO-Lab4.Wpf.csproj",
@@ -83,17 +157,16 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 16,
               "Title": "App.xaml",
               "DocumentMoniker": "C:\\Users\\SEMENMOROZ\\source\\repos\\TRPO-Lab3\\TRPO-Lab4.Wpf\\App.xaml",
               "ToolTip": "C:\\Users\\SEMENMOROZ\\source\\repos\\TRPO-Lab3\\TRPO-Lab4.Wpf\\App.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2024-05-30T15:26:27.181Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-30T15:26:27.181Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 17,
               "Title": "AssemblyInfo.cs",
               "DocumentMoniker": "C:\\Users\\SEMENMOROZ\\source\\repos\\TRPO-Lab3\\TRPO-Lab4.Wpf\\AssemblyInfo.cs",
               "ToolTip": "C:\\Users\\SEMENMOROZ\\source\\repos\\TRPO-Lab3\\TRPO-Lab4.Wpf\\AssemblyInfo.cs",
@@ -103,17 +176,16 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 8,
               "Title": "MainWindow.xaml",
               "DocumentMoniker": "C:\\Users\\SEMENMOROZ\\source\\repos\\TRPO-Lab3\\TRPO-Lab4.Wpf\\MainWindow.xaml",
               "ToolTip": "C:\\Users\\SEMENMOROZ\\source\\repos\\TRPO-Lab3\\TRPO-Lab4.Wpf\\MainWindow.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2024-05-30T15:26:21.605Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-30T15:26:21.605Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 9,
               "Title": "Ia6kJ4IQZgA.png - PNG [333x219, 32-\u0440\u0430\u0437\u0440\u044F\u0434\u043D\u043E\u0435, PNG]",
               "DocumentMoniker": "C:\\Users\\SEMENMOROZ\\Downloads\\Ia6kJ4IQZgA.png",
               "ToolTip": "C:\\Users\\SEMENMOROZ\\Downloads\\Ia6kJ4IQZgA.png - PNG [333x219, 32-\u0440\u0430\u0437\u0440\u044F\u0434\u043D\u043E\u0435, PNG]",
@@ -122,7 +194,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 18,
               "Title": "ViewModel.cs",
               "DocumentMoniker": "C:\\Users\\SEMENMOROZ\\source\\repos\\TRPO-Lab3\\TRPO-Lab4.Wpf\\ViewModel.cs",
               "ToolTip": "C:\\Users\\SEMENMOROZ\\source\\repos\\TRPO-Lab3\\TRPO-Lab4.Wpf\\ViewModel.cs",
@@ -132,7 +204,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 5,
               "Title": "TRPO_Lab3.Lib.csproj",
               "DocumentMoniker": "F:\\TRPO-Lab3\\TRPO_Lab3.Lib\\TRPO_Lab3.Lib.csproj",
               "RelativeDocumentMoniker": "TRPO_Lab3.Lib\\TRPO_Lab3.Lib.csproj",
@@ -144,7 +216,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 6,
               "Title": "TRPO-Lab3.csproj",
               "DocumentMoniker": "F:\\TRPO-Lab3\\TRPO-Lab3\\TRPO-Lab3.csproj",
               "RelativeDocumentMoniker": "TRPO-Lab3\\TRPO-Lab3.csproj",
@@ -156,7 +228,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 7,
               "Title": "TRPO-Lab3.Test.csproj",
               "DocumentMoniker": "F:\\TRPO-Lab3\\TRPO-Lab3.Test\\TRPO-Lab3.Test.csproj",
               "RelativeDocumentMoniker": "TRPO-Lab3.Test\\TRPO-Lab3.Test.csproj",
@@ -168,7 +240,17 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 14,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\SEMENMOROZ\\source\\repos\\TRPO-Lab3\\TRPO-Lab4.Wpf\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\SEMENMOROZ\\source\\repos\\TRPO-Lab3\\TRPO-Lab4.Wpf\\MainWindow.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABoAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-30T15:29:49.557Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
               "Title": "GlobalUsings.cs",
               "DocumentMoniker": "F:\\TRPO-Lab3\\TRPO-Lab3.Test\\GlobalUsings.cs",
               "RelativeDocumentMoniker": "TRPO-Lab3.Test\\GlobalUsings.cs",
@@ -180,7 +262,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 10,
               "Title": "UnitTest1.cs",
               "DocumentMoniker": "F:\\TRPO-Lab3\\TRPO-Lab3.Test\\UnitTest1.cs",
               "RelativeDocumentMoniker": "TRPO-Lab3.Test\\UnitTest1.cs",
@@ -204,7 +286,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 12,
               "Title": "Program.cs",
               "DocumentMoniker": "F:\\TRPO-Lab3\\TRPO-Lab3\\Program.cs",
               "RelativeDocumentMoniker": "TRPO-Lab3\\Program.cs",

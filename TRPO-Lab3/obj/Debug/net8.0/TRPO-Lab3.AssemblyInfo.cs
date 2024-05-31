@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("TRPO-Lab3")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ec3aa96607d698d2ffc05f5f5d81b81f7cdf8726")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d6fbe802307b8cb9675a301b01e6d01943809495")]
 [assembly: System.Reflection.AssemblyProductAttribute("TRPO-Lab3")]
 [assembly: System.Reflection.AssemblyTitleAttribute("TRPO-Lab3")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

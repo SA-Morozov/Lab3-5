@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\TRPO-Lab5.Web.props" />
+</Project>
